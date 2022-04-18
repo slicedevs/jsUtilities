@@ -1,5 +1,5 @@
 
-function joinStr(arr, separator) {
+function concatStr(arr, separator) {
     let finalStr = ""
     for(str in arr) {
         finalStr = finalStr.concat(arr[str], separator)

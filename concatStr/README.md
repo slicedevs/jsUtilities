@@ -1,4 +1,4 @@
-# joinStr()
+# concatStr()
 
 The function takes two parameters:<br><br>
 `arr`will be the array containing the strings you want to join together.<br>
