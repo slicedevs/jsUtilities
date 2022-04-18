@@ -1,4 +1,4 @@
-**childrenApply()**
+# childrenApply()
 
 The function takes two parameters:<br><br>
 `parent`will be the parent element that the child will be retrieved from.<br>
