@@ -1,3 +1,3 @@
 # jsUtilities
  A set of functions to faciliates your JS journey.<br>
- Every examples provided are using TailwindCSS.
+Every CSS made on examples serving HTML are made using TailwindCSS.
